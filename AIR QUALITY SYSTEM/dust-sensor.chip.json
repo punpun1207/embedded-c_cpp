@@ -1,0 +1,24 @@
+{
+  "name": "dust-sensor",
+  "author": "Duy213848",
+  "pins": [
+    "CONTROL",
+    "VO1",
+    "VCC",
+    "VO2",
+    "GND",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "controls": [
+    {
+      "name": "Dust Amount",
+      "type": "slider",
+      "min": 0,
+      "max": 100,
+      "unit": "%"
+    }
+  ]
+}
